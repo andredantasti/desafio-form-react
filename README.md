@@ -24,6 +24,6 @@ Projeto de um formulário de contato utilizando **React** com a biblioteca **Rea
 
 ## 📷 Demonstração
 
-![preview](./preview.gif) <!-- Coloque um gif ou imagem do projeto funcionando aqui -->
+![preview](./src/assets/images/animacaoReact.gif) <!-- Coloque um gif ou imagem do projeto funcionando aqui -->
 
 ---
